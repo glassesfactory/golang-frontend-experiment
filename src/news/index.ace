@@ -1,0 +1,10 @@
+= content main
+  div.container.bread-area
+    ol.breadcrumb
+      li
+        a href="/" HOME
+      li ニュース
+  div.container
+    // ニュース
+    section.news
+      | にゅーす

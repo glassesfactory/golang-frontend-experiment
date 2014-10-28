@@ -1,0 +1,10 @@
+div.navbar.navbar-default.navbar-fixed-top role="navigation"
+  div.container
+    div.navbar-header
+      a.navbar-brand href="/" へっだー
+    div.navbar-collapse.collapse.navbar-left
+      ul.nav.navbar-nav
+        li
+          a href="/" HOME
+        li
+          a href="/news" ニュース

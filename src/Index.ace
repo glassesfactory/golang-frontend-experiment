@@ -1,0 +1,7 @@
+= content main
+  div.container.bread-area
+    ol.breadcrumb
+      li
+        a href="/" HOME
+    div.row
+      | なんかこれといって書くこと無いよね
